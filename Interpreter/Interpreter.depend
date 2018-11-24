@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1539836800 source:c:\users\sept\desktop\interpreter\interpreter\factory.cpp
+	"TerminalExpression.h"
+	"NonTerminalExpression.h"
+
+1539839176 c:\users\sept\desktop\interpreter\interpreter\terminalexpression.h
+	"AbstractExpression.h"
+	"ContextOne.h"
+	"ContextTwo.h"
+	<iostream>
+
+1539839134 c:\users\sept\desktop\interpreter\interpreter\abstractexpression.h
+	"Context.h"
+
+1539835818 c:\users\sept\desktop\interpreter\interpreter\context.h
+
+1539835807 c:\users\sept\desktop\interpreter\interpreter\contextone.h
+
+1539835799 c:\users\sept\desktop\interpreter\interpreter\contexttwo.h
+	"Context.h"
+
+1539839129 c:\users\sept\desktop\interpreter\interpreter\nonterminalexpression.h
+	"AbstractExpression.h"
+	"ContextOne.h"
+	"ContextTwo.h"
+	<iostream>
+
+1539837081 source:c:\users\sept\desktop\interpreter\interpreter\main.cpp
+	<iostream>
+	"AbstractExpression.h"
+	"ContextOne.h"
+	"ContextTwo.h"
+
